@@ -1,5 +1,5 @@
 {
-    "name": "Aine-Bot",
+    "name": "Annisa-Bot",
     "version": "07.06.98",
     "description": "Customizable WhatsApp Bot",
     "depecrated": false,
@@ -27,16 +27,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Aiinne",
+    "homepage": "https://github.com/hanzganz",
     "author": {
-        "name": "Muhammad Ridwan Reynaldy"
+        "name": "Hanz Official"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Aiinne"
+        "url": "git+https://github.com/hanzganz"
     },
     "bugs": {
-        "url": "https://github.com/Aiinne"
+        "url": "https://github.com/hanzganz"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
